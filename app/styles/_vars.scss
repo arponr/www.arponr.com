@@ -1,0 +1,20 @@
+$font-main: capitolium-2, serif;
+
+$size-base: (15/16)*100%;
+$size-small: .9em;
+
+$line-height: 1.5;
+$line-height-unit: $line-height * 1rem;
+$line-height-small: 1.4;
+
+$background-base: #ffffff;
+
+$color-base: #333333;
+$color-light: #666666;
+$color-accent: #dd5511;
+
+$tinyskip: 0.25 * $line-height-unit;
+$smallskip: 0.5 * $line-height-unit;
+$medskip: 1 * $line-height-unit;
+$bigskip: 1.5 * $line-height-unit;
+$hugeskip: 2.0 * $line-height-unit;
